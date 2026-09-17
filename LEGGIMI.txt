@@ -1,0 +1,9 @@
+APP LE POTENZE · LA SCACCHIERA DI MATICA
+
+Estrai lo ZIP e carica index.html, matica.png, matica-potenze.mp4 e mate-missione.png nella radice dello stesso repository GitHub Pages, tutti allo stesso livello. Non caricare soltanto lo ZIP.
+
+Il video iniziale di Matica è già incluso: si carica all'apertura, parte senza audio e mostra i controlli per attivare il suono. In index.html cerca VIDEO_IDS e sostituisci le quattro stringhe vuote con gli ID dei video YouTube (la parte dopo v= o youtu.be/). L'app non contatta YouTube finché l'utente non preme il pulsante di consenso.
+
+Gli esercizi di calcolo sono stati ricostruiti dalle soluzioni leggibili nello screenshot 2. Non erano visibili i testi originali completi degli esercizi 42 e 43 né gli ID dei video, quindi verifica la corrispondenza con la tua board prima della pubblicazione definitiva. Gli esercizi 47–50, visibili nello screenshot 3, sono rinumerati 3–6. I casi impossibili e 0⁰ sono esplicitati nelle soluzioni.
+
+Le tappe occupano schermate separate. Gli esercizi accettano risposte digitate: dopo il controllo mostrano le soluzioni delle risposte errate. La stellina si ottiene con almeno il 70% di risposte corrette (14/19 nel calcolo, 12/16 nei completamenti). Un nuovo tentativo cambia l'ordine delle domande. Il test finale contiene 10 domande con soglia 7/10. I progressi sono memorizzati soltanto nel browser e si cancellano dall'informativa privacy.
